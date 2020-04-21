@@ -1,9 +1,9 @@
-## DataWorkshop-challenge-5
+# DataWorkshop-challenge-5
 
 Here there are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
 in his fifth Machine Learning challenge for beginners named as 'Time series workshop', posted in 07-11.10.2019.
 
-# Description of particular days:
+## Description of particular days:
 
 * day 1 - fbprophet installation
 * day 2 - learning what a trend is, doing visualizations and the simplest prediction
