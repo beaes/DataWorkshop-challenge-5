@@ -1,4 +1,4 @@
-# DataWorkshop-challenge-5
+# DataWorkshop-challenges-5
 
 Here there are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
 in his fifth Machine Learning challenge for beginners named as 'Time series workshop', posted in 07-11.10.2019.
